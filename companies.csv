@@ -1,0 +1,4 @@
+company_name,url,selector
+Arsenal Capital,https://www.arsenalcapital.com/news,h2 > a[href]
+Air Liquide,https://en.media.airliquide.com,h3 > a[href]
+Atlas Holdings,https://www.atlasholdingsllc.com/media/#press,p > a[href]
